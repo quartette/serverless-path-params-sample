@@ -1,0 +1,1 @@
+# serverless-path-params-sample
